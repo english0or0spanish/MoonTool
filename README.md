@@ -27,8 +27,6 @@ A cross-platform CLI tool for Moonraker/Klipper 3D printers. Control your printe
 1. Download moontoolinstaller-linux.sh
 2. Run the install script (moontoolinstaller-linux.sh)
 
-The installer will make all scripts executable and optionally add moontool to your PATH.
-
 ### Windows
 
 1. Install [Git for Windows](https://git-scm.com/download/win) (includes Git Bash)
@@ -36,8 +34,6 @@ The installer will make all scripts executable and optionally add moontool to yo
 3. Run `moontoolinstaller-windows.exe`
 4. Follow the steps given by the installer
 5. ensure run moontool.bat is checked - otherwise the program will not install
-
-The installer will set up moontool and add it to your PATH so you can use it from any directory.
 
 ## 📖 Usage
 
