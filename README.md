@@ -35,8 +35,10 @@ The installer will make all scripts executable and optionally add moontool to yo
 ### Windows
 
 1. Install [Git for Windows](https://git-scm.com/download/win) (includes Git Bash)
-2. Clone or download this repository
-3. Run `install.exe`
+2. Download 'moontool.exe' from the Releases section
+3. Run `moontool.exe`
+4. Follow the steps given by the installer
+5. ensure run moontool.bat is checked - otherwise the program will not install
 
 The installer will set up moontool and add it to your PATH so you can use it from any directory.
 
